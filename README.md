@@ -1,2 +1,3 @@
 # Python-Rename-Move-Script
-My first basic python script. Something I made for myself to automatically remove part of the name and move mass amounts of files.
+I made this script for when I download mass ammounts of videos off reddit, and I don't want to rename and move them all manually.
+This script isn't really made to be anything special, just solving a small problem for myself.
